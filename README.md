@@ -58,5 +58,5 @@ Multivariate forecasting approach that captures relationships between multiple e
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - see the [LICENSE](https://opendefinition.org/licenses/cc-by/) file for details.
 
